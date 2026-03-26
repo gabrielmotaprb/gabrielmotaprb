@@ -1,5 +1,5 @@
 # <p align="center"> GABRIEL BORGES </p>
-<p align="center"> ⚖️ <b>Analista de Sistemas | Especialista em Automação Jurídica</b> 💻 </p>
+<p align="center"> ⚖️ <b>Analista de Sistemas | Automação Jurídica</b> 💻 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=100&section=header&text=Construindo%20o%20futuro%20do%20Direito&fontSize=30&fontColor=4f9cf9&animation=twinkling" />
@@ -23,21 +23,25 @@ Sou um entusiasta da tecnologia que encontrou no Direito um mar de oportunidades
   <img src="https://skillicons.dev/icons?i=python,java,php,js,react,html,css,bootstrap,mysql,docker,git,github" />
 </p>
 
+
 ---
 
-### 📊 Estatísticas de Código
+### 📊 Painel de Controle (Analytics)
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-one-eight.vercel.app/api?username=gabrielmotaprb&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=10" />
-  &nbsp;
-  <img height="180" src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=gabrielmotaprb&layout=compact&theme=tokyonight&count_private=true&border_radius=10&hide=cpp,html" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielmotaprb&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=10&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gabrielmotaprb&theme=tokyonight&no-bg=true&margin-w=15" alt="trophy" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielmotaprb&layout=compact&theme=tokyonight&count_private=true&border_radius=10&hide=cpp,html&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielmotaprb&show_icons=true&theme=tokyonight&count_private=true" alt="Backup Stats" />
 </p>
 
 ---
+
 
 ### 🚀 Entregas Recentes
 

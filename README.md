@@ -1,35 +1,61 @@
-# GABRIEL BORGES
-### `Analista de sistemas | Legal Automation `
+# <p align="center">──────────────────────────────</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Gabriel%20Borges&fontSize=70&animation=fadeIn" alt="Banner Gabriel" />
+</p>
+<p align="center">──────────────────────────────</p>
+### <p align="center">`Systems Analyst | Legal Automation Engineer` ⚖️💻</p>
 
 ---
 
-> **A tecnologia é o braço forte da justiça moderna.** > Desenvolvendo arquiteturas escaláveis para o ecossistema jurídico.
+> ### 🖥️ System Status: **`BUILDING MODERN JUSTICE`**
+>
+> A tecnologia é o braço forte da justiça moderna. > Desenvolvendo arquiteturas escaláveis para o ecossistema jurídico.
 
 ---
 
-### 🛠 TECH STACK 
-`Backend` &nbsp;&nbsp; ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=openjdk) ![PHP](https://img.shields.io/badge/-PHP-000?style=flat&logo=php)  
-`Frontend` &nbsp; ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react) ![JS](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)  
-`Infra` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker) ![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=postgresql) ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
+### 🛠️ TECH STACK (The Toolbox)
 
----
-
-### ⚡ PERFORMANCE METRICS
 <p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=gabrielmotaprb&show_icons=true&theme=transparent&title_color=fff&text_color=aaa&icon_color=fff&bg_color=00000000&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmotaprb&layout=compact&theme=transparent&title_color=fff&text_color=aaa&bg_color=00000000&hide_border=true" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 📂 RECENT DEPLOYMENTS
-* **LEGACY DATABASE RESTRUCTURING** Modelagem e migração de dados críticos para o setor jurídico.
-* **LEGAL SCRAPER ENGINE** Automação de alto nível para extração de dados em tribunais (CNJ/GCPJ).
-* **INTERNAL RESOURCE MANAGER** Sistema Full-Stack para gestão de ativos e agendamento.
+### 📊 PERFORMANCE DASHBOARD (Analytics)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielmotaprb&show_icons=true&theme=dracula&border_radius=10" alt="Estatísticas" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmotaprb&layout=compact&theme=dracula&border_radius=10&hide=cpp,html" alt="Linguagens" />
+</p>
 
 ---
 
-### 📡 CONNECT
+### 📂 RECENT DEPLOYMENTS (The Popup Projects)
+
+> **`[ALERT: DEPLOY]` LEGACY DATABASE RESTRUCTURING** Modelagem e migração de dados críticos para o setor jurídico.
+
+> **`[ALERT: DEPLOY]` LEGAL SCRAPER ENGINE** Automação de alto nível para extração de dados em tribunais (CNJ/GCPJ).
+
+> **`[ALERT: DEPLOY]` INTERNAL RESOURCE MANAGER** Sistema Full-Stack para gestão de ativos e agendamento.
+
+---
+
+### 📡 CONNECT (The Final Hop)
+
 `[LINKEDIN](SEU_LINK_AQUI)` &nbsp; `[GMAIL](mailto:Gabriel.mota@paulobarraadvogados.com.br)` &nbsp; `[INSTAGRAM](SEU_LINK_AQUI)`
 
 ---

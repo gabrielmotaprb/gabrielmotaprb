@@ -27,11 +27,12 @@ Sou um entusiasta da tecnologia que encontrou no Direito um mar de oportunidades
 
 ---
 
+
 ### 📊 Estatísticas de Código
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gabrielmotaprb&show_icons=true&theme=tokyonight&border_radius=10&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmotaprb&layout=compact&theme=tokyonight&border_radius=10&hide=cpp,html&count_private=true" />
+  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=gabrielmotaprb&show_icons=true&theme=tokyonight&border_radius=10&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=gabrielmotaprb&layout=compact&theme=tokyonight&border_radius=10&hide=cpp,html&count_private=true" />
 </p>
 
 ---

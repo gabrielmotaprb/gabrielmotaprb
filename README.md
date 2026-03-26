@@ -20,9 +20,7 @@ Sou um entusiasta da tecnologia que encontrou no Direito um mar de oportunidades
 ### ⚒️ Linguagens e Tecnologias
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,php,js,react,html,css,bootstrap,mysql,docker,git,github" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,java,php,js,react,html,css,bootstrap,mysql,docker,git,github" />
 </p>
 
 ---
@@ -30,8 +28,8 @@ Sou um entusiasta da tecnologia que encontrou no Direito um mar de oportunidades
 ### 📊 Estatísticas de Código
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrielmotaprb&show_icons=true&theme=tokyonight&border_radius=10" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmotaprb&layout=compact&theme=tokyonight&border_radius=10&hide=cpp,html" />
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielmotaprb&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielmotaprb&layout=compact&theme=tokyonight&hide=cpp,html" />
 </p>
 
 ---
@@ -40,7 +38,7 @@ Sou um entusiasta da tecnologia que encontrou no Direito um mar de oportunidades
 
 * 🏛️ **Estruturação de Banco de Dados:** Modelagem focada em alta performance para dados processuais.
 * 🤖 **Motor de Extração Legal (Scraper):** Automações em Python para coleta de dados em tribunais.
-* 📅 **Gestor de Recursos Internos:** App Full-Stack para agendamento de salas e gestão de ativos.
+* 📅 **Gestor de Recursos Internos:** App Full-Stack para gestão de recursos e salas de reunião.
 
 ---
 

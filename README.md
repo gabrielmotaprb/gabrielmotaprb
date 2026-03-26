@@ -20,7 +20,9 @@ Sou um entusiasta da tecnologia que encontrou no Direito um mar de oportunidades
 ### ⚒️ Linguagens e Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,php,js,react,html,css,bootstrap,mysql,docker,git,github" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,php,js,react,html,css,bootstrap,mysql,docker,git,github" />
+  </a>
 </p>
 
 ---
@@ -28,8 +30,8 @@ Sou um entusiasta da tecnologia que encontrou no Direito um mar de oportunidades
 ### 📊 Estatísticas de Código
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielmotaprb&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielmotaprb&layout=compact&theme=tokyonight&hide=cpp,html" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gabrielmotaprb&show_icons=true&theme=tokyonight&border_radius=10&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmotaprb&layout=compact&theme=tokyonight&border_radius=10&hide=cpp,html&count_private=true" />
 </p>
 
 ---
@@ -37,7 +39,7 @@ Sou um entusiasta da tecnologia que encontrou no Direito um mar de oportunidades
 ### 🚀 Entregas Recentes
 
 * 🏛️ **Estruturação de Banco de Dados:** Modelagem focada em alta performance para dados processuais.
-* 🤖 **Motor de Extração Legal (Scraper):** Automações em Python para coleta de dados em tribunais.
+* 🤖 **Motor de Extração Legal (Scraper):** Automações em Python para coleta de dados em tribunais (CNJ/GCPJ).
 * 📅 **Gestor de Recursos Internos:** App Full-Stack para gestão de recursos e salas de reunião.
 
 ---
@@ -48,11 +50,12 @@ Sou um entusiasta da tecnologia que encontrou no Direito um mar de oportunidades
   <a href="mailto:Gabriel.mota@paulobarraadvogados.com.br">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/gabrielmotaprb/">
+  &nbsp;
+  <a href="https://www.linkedin.com/in/gabrielmotaprb/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center"> <sub><i>"Na era da informação, o Direito sem tecnologia é cego."</i></sub> </p>
+<p align="center"> <sub><i>

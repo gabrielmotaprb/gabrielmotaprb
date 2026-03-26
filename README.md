@@ -20,21 +20,17 @@ Sou um entusiasta da tecnologia que encontrou no Direito um mar de oportunidades
 ### ⚒️ Linguagens e Tecnologias
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,php,js,react,html,css,bootstrap,mysql,docker,git,github" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,java,php,js,react,html,css,bootstrap,mysql,docker,git,github" />
 </p>
 
 ---
 
-### 📊 Atividade de Código (Real-Time)
+### 📊 Estatísticas de Código
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielmotaprb&theme=tokyonight&area=true&hide_border=true" width="100%" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabrielmotaprb&layout=compact&theme=tokyonight&border_radius=10&hide=cpp,html&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gabrielmotaprb&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=false&border_radius=10" />
+  &nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmotaprb&layout=compact&theme=tokyonight&hide=cpp,html&count_private=true&hide_border=false&border_radius=10" />
 </p>
 
 ---

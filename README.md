@@ -48,6 +48,17 @@ Sou um entusiasta da tecnologia que encontrou no Direito um mar de oportunidades
 * 📅 **Gestor de Recursos Internos:** App Full-Stack para gestão de recursos e salas de reunião.
 
 ---
+---
+
+### 🔒 Projetos Privados & Soluções Corporativas
+
+| Projeto | Descrição | Stack |
+| :--- | :--- | :--- |
+| **Automação BBJur** | Otimização e classificação automática de pendências no Banco do Brasil Jurídico. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) |
+| **Automação GCPJ** | Higienização de dados e movimentação processual em larga escala. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyAutoGUI](https://img.shields.io/badge/-PyAutoGUI-ffce44?style=flat-square&logo=python&logoColor=black) |
+| **Buscador LegalOne** | Mineração de dados históricos (2016-2025) e fluxo financeiro. | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
+
+---
 
 ### 📡 Vamos conversar?
 

@@ -1,21 +1,33 @@
 # <p align="center"> GABRIEL BORGES </p>
-<p align="center"> ⚖️ <b>Systems Analyst | Legal Automation Specialist</b> 💻 </p>
+<p align="center"> ⚖️ <b>Analista de Sistemas | Especialista em Automação Jurídica</b> 💻 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=100&section=header&text=Building%20the%20future%20of%20Law&fontSize=30&fontColor=4f9cf9&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=100&section=header&text=Construindo%20o%20futuro%20do%20Direito&fontSize=30&fontColor=4f9cf9&animation=twinkling" />
 </p>
+
+---
+
+### 👋 Sobre mim
+
+Sou um entusiasta da tecnologia que encontrou no Direito um mar de oportunidades para automação. Trabalho transformando processos manuais e complexos em fluxos inteligentes e baseados em dados. Meu foco é unir a lógica do código com a necessidade do jurídico para criar soluções que realmente facilitem o dia a dia.
+
+* 🛠️ Atualmente focado em arquitetura de dados e automação no [**PAULO ROCHA BARRA E ADVOGADOS ASSOCIADOS**].
+* 🌱 Estudando constantemente para dominar novas formas de integrar tecnologia ao ecossistema legal.
+* ☕ Acredito que um bom código e uma boa estratégia jurídica podem mudar o jogo.
 
 ---
 
 ### ⚒️ Linguagens e Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,php,js,react,html,css,bootstrap,mysql,docker,git,github" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,php,js,react,html,css,bootstrap,mysql,docker,git,github" />
+  </a>
 </p>
 
 ---
 
-### 📊 Estatísticas
+### 📊 Estatísticas de Código
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrielmotaprb&show_icons=true&theme=tokyonight&border_radius=10" />
@@ -24,15 +36,15 @@
 
 ---
 
-### 🚀 Atividades Recentes (Impacto Jurídico)
+### 🚀 Entregas Recentes
 
-* 🏛️ **Estruturação de banco de dados de processos:** Alta performance para dados críticos.
-* 🤖 **Legal Scraper Engine:** Automação via Python para extração de dados CNJ/GCPJ.
-* 📅 **Internal Scheduler:** App Full-Stack para gestão de recursos e reuniões.
+* 🏛️ **Estruturação de Banco de Dados:** Modelagem focada em alta performance para dados processuais.
+* 🤖 **Motor de Extração Legal (Scraper):** Automações em Python para coleta de dados em tribunais.
+* 📅 **Gestor de Recursos Internos:** App Full-Stack para agendamento de salas e gestão de ativos.
 
 ---
 
-### 📡 Conecte-se comigo
+### 📡 Vamos conversar?
 
 <p align="left">
   <a href="mailto:Gabriel.mota@paulobarraadvogados.com.br">
@@ -45,6 +57,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gabrielmotaprb/gabrielmotaprb/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</p>
+<p align="center"> <sub><i>"Na era da informação, o Direito sem tecnologia é cego."</i></sub> </p>

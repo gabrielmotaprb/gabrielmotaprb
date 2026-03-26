@@ -27,12 +27,14 @@ Sou um entusiasta da tecnologia que encontrou no Direito um mar de oportunidades
 
 ---
 
-
-### 📊 Estatísticas de Código
+### 📊 Atividade de Código (Real-Time)
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=gabrielmotaprb&show_icons=true&theme=tokyonight&border_radius=10&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=gabrielmotaprb&layout=compact&theme=tokyonight&border_radius=10&hide=cpp,html&count_private=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielmotaprb&theme=tokyonight&area=true&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabrielmotaprb&layout=compact&theme=tokyonight&border_radius=10&hide=cpp,html&count_private=true" />
 </p>
 
 ---
@@ -59,4 +61,4 @@ Sou um entusiasta da tecnologia que encontrou no Direito um mar de oportunidades
 
 ---
 
-<p align="center"> <sub><i>
+<p align="center"> <sub><i>"Na era da informação, o Direito sem tecnologia é cego."</i></sub> </p>

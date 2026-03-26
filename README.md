@@ -31,9 +31,8 @@ Sou um entusiasta da tecnologia que encontrou no Direito um mar de oportunidades
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielmotaprb&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=10&cache_seconds=1800" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielmotaprb&layout=compact&theme=tokyonight&count_private=true&border_radius=10&hide=cpp,html&cache_seconds=1800" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmotaprb&layout=compact&theme=tokyonight&border_radius=10&count_private=true&include_all_commits=true&hide=html,css,cpp&cache_seconds=1800" />
 </p>
 
 <p align="center">

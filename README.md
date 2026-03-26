@@ -2,9 +2,8 @@
 <p align="center"> ⚖️ <b>Analista de Sistemas | Automação Jurídica</b> 💻 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=100&section=header&text=Construindo%20o%20futuro%20do%20Direito&fontSize=30&fontColor=4f9cf9&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=100&section=header&text=Construindo%20o%20futuro%20do%20Direito&fontSize=30&fontColor=ff0000&animation=twinkling" />
 </p>
-
 ---
 
 ### 👋 Sobre mim

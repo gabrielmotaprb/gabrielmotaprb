@@ -12,7 +12,7 @@ Sou um entusiasta da tecnologia que encontrou no Direito um mar de oportunidades
 
 * 🛠️ Atualmente focado em arquitetura de dados e automação no [**PAULO ROCHA BARRA E ADVOGADOS ASSOCIADOS**].
 * 🌱 Estudando constantemente para dominar novas formas de integrar tecnologia ao ecossistema legal.
-* ☕ Acredito que um bom código e uma boa estratégia jurídica podem mudar o jogo.
+* ☕ um bom código e uma boa estratégia jurídica podem mudar o jogo.
 
 ---
 

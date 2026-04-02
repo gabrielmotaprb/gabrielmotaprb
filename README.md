@@ -1,70 +1,68 @@
-# <p align="center"> GABRIEL BORGES </p>
-<p align="center"> ⚖️ <b>Analista de Sistemas | Automação Jurídica</b> 💻 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=100&section=header&text=Construindo%20o%20futuro%20do%20Direito&fontSize=30&fontColor=ff0000&animation=twinkling" />
-</p>
+<div align="right">
+  <sub>gabriel.mota@paulobarraadvogados.com.br &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/gabrielmotaprb/">linkedin</a> &nbsp;·&nbsp; <a href="https://github.com/gabrielmotaprb">github</a></sub>
+</div>
 
 ---
 
-### 👋 Sobre mim
+# Gabriel Borges
 
-Sou um entusiasta da tecnologia que encontrou no Direito um mar de oportunidades para automação. Trabalho transformando processos manuais e complexos em fluxos inteligentes e baseados em dados. Meu foco é unir a lógica do código com a necessidade do jurídico para criar soluções de impacto.
+`Analista de Sistemas · Automação Jurídica`
 
-* 🛠️ **Atuação:** Arquiteto de dados e automação no [**PAULO ROCHA BARRA E ADVOGADOS ASSOCIADOS**].
-* 🌱 **Evolução:** Explorando novas fronteiras para integrar tecnologia ao ecossistema legal.
-* ☕ **Mindset:** "Um bom código e uma boa estratégia jurídica mudam o jogo."
+Arquiteto de dados e automação no escritório **Paulo Rocha Barra & Advogados Associados**. Atuo na interseção entre lógica de sistemas e ecossistema jurídico — transformando processos manuais em fluxos inteligentes, rastreáveis e orientados a dados.
 
 ---
 
-### ⚒️ Linguagens e Tecnologias
+### Projetos corporativos
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,php,js,react,mysql,docker,git,github,html,css,bootstrap" />
-</p>
-
----
-
-### 📊 Painel de Controle (Analytics)
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielmotaprb&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=10&cache_seconds=1800" />
-  &nbsp;
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielmotaprb&layout=compact&theme=tokyonight&border_radius=10&count_private=true&include_all_commits=true&hide=html,css,cpp&cache_seconds=1800" />
-</p>
+| Projeto | Descrição | Stack |
+|:--|:--|:--|
+| **BBJur Automation** | Classificação e otimização automática de pendências no sistema Banco do Brasil Jurídico | `Python` `Playwright` |
+| **GCPJ Engine** | Processamento de documentos e movimentação processual em larga escala | `Python` `Selenium` |
+| **LegalOne Miner** | Mineração de dados históricos (2016–2025) e análise de fluxo financeiro | `PHP` `SQL Server` |
 
 ---
 
-### 🔒 Projetos Privados & Soluções Corporativas
+### Entregas recentes
 
-| Projeto | Descrição | Stack Principal |
-| :--- | :--- | :--- |
-| **Automação BBJur** | Otimização e classificação automática de pendências no sistema Banco do Brasil Jurídico. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) |
-| **Automação GCPJ** | Processamento de documentos e movimentação processual em larga escala no sistema GCPJ. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) |
-| **Buscador LegalOne** | Ferramenta interna de mineração de dados históricos (2016-2025) e fluxo financeiro. | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
+```
+01  Modelagem de alta performance para consolidação de dados processuais
+    → Estruturação de dados · arquitetura relacional
 
----
+02  Motores de extração automática CNJ / GCPJ
+    → Legal Scraper Engine · Python
 
-### 🚀 Entregas Recentes
-
-* 🏛️ **Estruturação de Dados:** Modelagem de alta performance para consolidação de dados processuais.
-* 🤖 **Legal Scraper Engine:** Motores em Python para extração automática de dados CNJ/GCPJ.
-* 📅 **Resource Manager:** Aplicação Full-Stack para gestão inteligente de ativos e salas.
+03  Aplicação Full-Stack para gestão de ativos e salas
+    → Resource Manager · React + API
+```
 
 ---
 
-### 📡 Vamos conversar?
+### Stack
 
-<p align="left">
-  <a href="mailto:Gabriel.mota@paulobarraadvogados.com.br">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/gabrielmotaprb/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
 ---
 
-<p align="center"> <sub><i>"Na era da informação, o Direito sem tecnologia é cego."</i></sub> </p>
+<div align="center">
+  <br>
+  <sub><i>"Na era da informação, o Direito sem tecnologia é cego."</i></sub>
+  <br><br>
+</div>
+
+---
+
+<div align="center">
+  <img height="155" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielmotaprb&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&border_radius=8&cache_seconds=1800" />
+  &nbsp;&nbsp;
+  <img height="155" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielmotaprb&layout=compact&theme=default&hide_border=true&border_radius=8&count_private=true&hide=html,css,cpp&cache_seconds=1800" />
+</div>

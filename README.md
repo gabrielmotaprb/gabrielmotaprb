@@ -5,39 +5,31 @@
 ---
 
 # Gabriel Borges
+`DevOps & Software Engineer | Especialista em Automação Jurídica`
 
-`Analista de Sistemas · Automação Jurídica`
-
-Arquiteto de dados e automação no escritório **Paulo Rocha Barra & Advogados Associados**. Atuo na interseção entre lógica de sistemas e ecossistema jurídico — transformando processos manuais em fluxos inteligentes, rastreáveis e orientados a dados.
+Atuo no setor de DevOps do escritório **Paulo Rocha Barra & Advogados Associados**, focando na interseção entre engenharia de software e ecossistema jurídico. Minha especialidade é eliminar gargalos operacionais através de arquiteturas de dados escaláveis e automações inteligentes que transformam processos manuais em fluxos auditáveis e orientados a dados.
 
 ---
 
-### Projetos corporativos
+### 🛠️ Projetos Estratégicos
 
-| Projeto | Descrição | Stack |
+| Projeto | Impacto e Solução | Stack |
 |:--|:--|:--|
-| **BBJur Automation** | Classificação e otimização automática de pendências no sistema Banco do Brasil Jurídico | `Python` `Playwright` |
-| **GCPJ Engine** | Processamento de documentos e movimentação processual em larga escala | `Python` `Selenium` |
-| **LegalOne Miner** | Mineração de dados históricos (2016–2025) e análise de fluxo financeiro | `PHP` `SQL Server` |
+| **BBJur Automation** | Triagem e classificação automática de pendências no sistema Banco do Brasil Jurídico, otimizando o tempo de resposta operacional. | `Python` `Playwright` |
+| **CPJ Engine** | Motor de alta performance para extração de movimentação processual e processamento de documentos em larga escala. | `Python` `Selenium` |
+| **LegalOne Miner** | Mineração de dados históricos (2016–2025) e reconstrução de fluxo financeiro para análise de precisão. | `PHP` `SQL Server` |
 
 ---
 
-### Entregas recentes
+### 🚀 Entregas Recentes
 
-```
-01  Modelagem de alta performance para consolidação de dados processuais
-    → Estruturação de dados · arquitetura relacional
-
-02  Motores de extração automática CNJ / GCPJ
-    → Legal Scraper Engine · Python
-
-03  Aplicação Full-Stack para gestão de ativos e salas
-    → Resource Manager · React + API
-```
+*   **Arquitetura de Dados:** Modelagem de alta performance para consolidação de bases jurídicas complexas e sistemas relacionais.
+*   **Web Scraping & RPA:** Desenvolvimento de motores robustos para extração de dados públicos (CNJ) e sistemas internos (CPJ).
+*   **Full-Stack Development:** Criação de aplicações completas (React + API) para gestão de ativos e recursos internos.
 
 ---
 
-### Stack
+### 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -54,7 +46,7 @@ Arquiteto de dados e automação no escritório **Paulo Rocha Barra & Advogados 
 
 <div align="center">
   <br>
-  <sub><i>"Na era da informação, o Direito sem tecnologia é cego."</i></sub>
+  <sub><i>"Automatizando o presente para que o futuro não dependa de cliques manuais."</i></sub>
   <br><br>
 </div>
 

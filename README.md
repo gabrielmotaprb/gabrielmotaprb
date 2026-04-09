@@ -1,14 +1,19 @@
 <div align="right">
   <sub>gabriel.mota@paulobarraadvogados.com.br &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/gabrielmotaprb/">linkedin</a> &nbsp;·&nbsp; <a href="https://github.com/gabrielmotaprb">github</a></sub>
 </div>
+
 <br>
-Gabriel Borges
+
+# Gabriel Borges
+
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=1000&color=1D9E75&width=480&lines=DevOps+%26+Software+Engineer;Especialista+em+Automa%C3%A7%C3%A3o+Jur%C3%ADdica;Arquiteturas+de+dados+escal%C3%A1veis" alt="Typing SVG" />
 
-Atuo no setor de DevOps do Paulo Rocha Barra & Advogados Associados, na interseção entre engenharia de software e ecossistema jurídico. Minha especialidade é eliminar gargalos operacionais através de arquiteturas de dados escaláveis e automações inteligentes que transformam processos manuais em fluxos auditáveis e orientados a dados.
+> Atuo no setor de DevOps do **Paulo Rocha Barra & Advogados Associados**, na interseção entre engenharia de software e ecossistema jurídico. Minha especialidade é eliminar gargalos operacionais através de arquiteturas de dados escaláveis e automações inteligentes que transformam processos manuais em fluxos auditáveis e orientados a dados.
 
+---
 
-🗂️ Projetos Estratégicos
+### 🗂️ Projetos Estratégicos
+
 <table>
   <tr>
     <td width="60px" align="center">⚙️</td>
@@ -27,26 +32,41 @@ Atuo no setor de DevOps do Paulo Rocha Barra & Advogados Associados, na interse�
   </tr>
 </table>
 
-🚀 Entregas Recentes
-🗄️Arquitetura de Dados — Modelagem de alta performance para consolidação de bases jurídicas complexas e sistemas relacionais🤖Web Scraping & RPA — Motores robustos para extração de dados públicos (CNJ) e sistemas internos (CPJ)⚡Full-Stack Development — Aplicações React + API para gestão de ativos e recursos internos
+---
 
-💻 Tech Stack
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
+### 🚀 Entregas Recentes
+
+<table>
+  <tr>
+    <td width="40px" align="center">🗄️</td>
+    <td><strong>Arquitetura de Dados</strong> — Modelagem de alta performance para consolidação de bases jurídicas complexas e sistemas relacionais</td>
+  </tr>
+  <tr>
+    <td align="center">🤖</td>
+    <td><strong>Web Scraping & RPA</strong> — Motores robustos para extração de dados públicos (CNJ) e sistemas internos (CPJ)</td>
+  </tr>
+  <tr>
+    <td align="center">⚡</td>
+    <td><strong>Full-Stack Development</strong> — Aplicações React + API para gestão de ativos e recursos internos</td>
+  </tr>
+</table>
+
+---
+
+### 💻 Tech Stack
+
+`Python` &nbsp; `JavaScript` &nbsp; `React` &nbsp; `PHP` &nbsp; `Java` &nbsp; `MySQL` &nbsp; `SQL Server` &nbsp; `Docker` &nbsp; `Git` &nbsp; `Playwright` &nbsp; `Selenium`
+
+---
 
 <div align="center">
+
   <img height="155" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielmotaprb&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&border_radius=8&cache_seconds=1800" />
   &nbsp;&nbsp;
   <img height="155" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielmotaprb&layout=compact&theme=default&hide_border=true&border_radius=8&count_private=true&hide=html,css,cpp&cache_seconds=1800" />
-<br><br>
-<sub><i>"Automatizando o presente para que o futuro não dependa de cliques manuais."</i></sub>
+
+  <br><br>
+
+  <sub><i>"Automatizando o presente para que o futuro não dependa de cliques manuais."</i></sub>
+
 </div>

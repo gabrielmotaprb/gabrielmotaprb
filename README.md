@@ -25,7 +25,6 @@
 Atuo no time de **DevOps do Paulo Rocha Barra & Advogados Associados**, na interseção entre engenharia de software e operação jurídica.
 
 Meu foco é projetar e operar soluções que:
-- eliminam gargalos operacionais;
 - aumentam previsibilidade e rastreabilidade;
 - escalam coleta/processamento de dados jurídicos;
 - reduzem dependência de tarefas manuais repetitivas.
